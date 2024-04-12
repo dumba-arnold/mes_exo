@@ -1,0 +1,36 @@
+**1. Basics of javascript**
+************************************
+
+
+//console.log(`Hello`);
+//console.log(`I like pizza`);
+
+//window.alert(`this is an alert !`);
+
+//window.alert(`I like pizza !`);
+
+
+//this is a comment line in java
+
+/*
+This 
+is 
+a 
+comment
+*/
+
+document.getElementById("myH1").textContent = `Hello`;
+document.getElementById("myP").textContent = `I like pizza`;
+
+/* 
+document.getElementById allows you
+to put text in an html page dynamically from javascript.
+
+it has to be associated with textContent alongwith the variable declared from html.
+*/
+/*
+
+console.log() is used to display a message on a console
+
+window.alert() is used to display an alert message on a web page
+*/
